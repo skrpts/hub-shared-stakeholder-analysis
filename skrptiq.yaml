@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "3bcd76f3-3d5e-4cad-ab20-c450a245b17d"
+id: "128636ba-d77e-45ea-9679-92fe5a85f71c"
 name: "stakeholder-analysis"
 display_name: "Stakeholder Analysis"
 description: "Identifying stakeholders, their needs, influence levels, and impact on product decisions"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
