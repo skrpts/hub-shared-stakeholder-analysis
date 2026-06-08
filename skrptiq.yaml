@@ -3,7 +3,7 @@ id: "128636ba-d77e-45ea-9679-92fe5a85f71c"
 name: "stakeholder-analysis"
 display_name: "Stakeholder Analysis"
 description: "Identifying stakeholders, their needs, influence levels, and impact on product decisions"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "skill"
+dependencies: []
+
 contents:
   skills: 1
   prompts: 0
